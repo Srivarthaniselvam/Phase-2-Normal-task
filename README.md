@@ -1,24 +1,31 @@
 # Phase-2 Project(Normal task)
 
 # Typing Speed Tester
+      
        This is a simple Python Typing Speed Test program built with Tkinter.
+       
        It allows users to test their typing speed and accuracy by typing a randomly selected sentence.
        
 # Usage
  
  -Click the "Start typing" button to begin the typing test.
+ 
  -Type the displayed sentence in the input field.
+ 
  -Click the "Check" button to see detailed results, including time taken, accuracy, and typing speed.
 
 # Results Interpretation
 
  -Time Taken: The total time taken to type the given sentence.
+ 
  -Accuracy: A percentage indicating how accurately the typed text matches the original sentence.
+ 
  -Typing Speed (wpm): Words per minute, a measure of how quickly you can type.
 
 # Features
 
  -Randomly selects sentences for typing practice.
+ 
  -Calculates typing speed, accuracy, and time taken.
 
  # Screenshots
