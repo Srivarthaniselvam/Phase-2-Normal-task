@@ -1,11 +1,8 @@
 # Phase-2 Project(Normal task)
 
 # Typing Speed Tester
-      
-       --This is a simple Python Typing Speed Test program built with Tkinter.
-       --It allows users to test their typing speed and accuracy by typing a randomly selected sentence.
-        
-       
+
+       This Typing Speed Tester is a Python program built using Tkinter, designed to help users practice and enhance their typing speed and accuracy.
 # Usage
  
  -Click the "Start typing" button to begin the typing test.
