@@ -2,9 +2,9 @@
 
 # Typing Speed Tester
       
-       This is a simple Python Typing Speed Test program built with Tkinter.
-       
-       It allows users to test their typing speed and accuracy by typing a randomly selected sentence.
+       --This is a simple Python Typing Speed Test program built with Tkinter.
+       --It allows users to test their typing speed and accuracy by typing a randomly selected sentence.
+        
        
 # Usage
  
